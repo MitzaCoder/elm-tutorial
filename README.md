@@ -1,3 +1,3 @@
 # elm-tutorial
 
-Book link: https://www.elm-tutorial.org
+Book link: https://www.elm-tutorial.org/en/
